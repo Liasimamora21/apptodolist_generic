@@ -1,0 +1,7 @@
+{
+  "name": "todolisApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
